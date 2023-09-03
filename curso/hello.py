@@ -4,3 +4,8 @@ print('HELLO PYTHON')
 """
 comentario de varias lineas
 """
+#tipo de dato
+print(type("HELLO PY"))
+print(type(7))
+print(type(True))
+print(type(1.2))
